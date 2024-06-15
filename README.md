@@ -6,7 +6,7 @@ Ele tem como objetivo principal cadastrar pedidos de uma confecção de uniforme
 
 -------------------------------
 
-O cadastro tem como argumentos:
+O cadastro tem como argumentos:  
     - Nome/Descrição do pedido;  
     - Telefone de contato;  
     - Quantidade de peças total;  
